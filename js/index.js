@@ -96,7 +96,7 @@ const showEndResults = ()  => {
 
 // game main function
 const game = (clickedOption) => {
-    if(rounds >= 5) {
+    if(player == 5 || pc == 5) {
         alert("GAME OVER!");
         showEndResults();
         reset();
