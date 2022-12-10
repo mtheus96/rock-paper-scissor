@@ -7,3 +7,6 @@ In this exercise I've used variables, conditions, functions, array and worked wi
 The project was updated with a new feature: User Interface. Now instead of playing in the console the player can play with buttons.
 
 I think that adding features to this game was a big challenge. I've learned so much things fixing bugs and working with solutions by my own. I am proud to make it.
+
+You can check the project here:
+https://mtheus96.github.io/rock-paper-scissor/
